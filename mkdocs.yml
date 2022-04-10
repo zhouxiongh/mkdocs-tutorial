@@ -1,1 +1,4 @@
 site_name: My Docs
+site_url: https://daz-mkdocs-tutorial.readthedocs.io
+nav:
+    - Home: index.md
